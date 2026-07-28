@@ -2,20 +2,17 @@
 
 '인공지능 언어 모델 LLM의 모든 것' 수업 정리입니다.
 
-<br>
 ## 🛠️ 학습 및 개발 환경
 - Language: Python 3.13
 - Enviroment: Anaconda
 - IDE: Jupyter Notebook
 
-<br><br>
 ## 📖 사용 교재
 <br><br>
 <img src="./book.png" width="300" alt="수업 교재">
 
 <br><br>
 ## ⚠️ 주의사항 및 참고 사항
-<br><br>
 
 본 저장소의 코드는 강의(김상모 강사님) 수업 내용과 교재를 바탕으로 작성 및 정리된 코드입니다.
 
