@@ -8,7 +8,7 @@
 - IDE: Jupyter Notebook
 
 ## 📖 사용 교재
-<br><br>
+
 <img src="./book.png" width="300" alt="수업 교재">
 
 ## ⚠️ 주의사항 및 참고 사항
