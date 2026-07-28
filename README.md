@@ -4,17 +4,16 @@
 
 <br>
 ## 🛠️ 학습 및 개발 환경
-<br><br>
 - Language: Python 3.13
 - Enviroment: Anaconda
 - IDE: Jupyter Notebook
 
-<br>
+<br><br>
 ## 📖 사용 교재
 <br><br>
 <img src="./book.png" width="300" alt="수업 교재">
 
-<br>
+<br><br>
 ## ⚠️ 주의사항 및 참고 사항
 <br><br>
 
