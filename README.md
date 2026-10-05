@@ -19,10 +19,7 @@
 
 해당 파일들은 아래 경로에서 직접 다운로드받아 각 폴더 위치에 넣은 후 실행해야 합니다.
 
-  - https://drive.google.com/drive/folders/12LsZ9jOhailndyM_328YbfNBO2rMBWpW
-
-  - https://drive.google.com/file/d/1Tl_sW6-ErJ4OQGu5kstr0Shwm9nfJJWY/view?usp=sharing
+  - https://drive.google.com/drive/folders/1QxBHVfRP4Xdh5vTax_3gJfGu672nFpxQ?usp=sharing
 
   - https://nlp.stanford.edu/projects/glove/
-
-  - glove.6B.zip으로 다운!
+    (glove.6B.zip으로 다운!)
